@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.enso.app.dev",
+    "package_name": "mx.yellowme.youst",
     "sha256_cert_fingerprints":
-    ["20:99:D4:1A:D5:0A:87:AC:09:24:ED:0C:2E:3A:71:85:59:40:B3:BD:AE:78:DE:5A:03:21:D2:A8:4D:D5:65:A0"]
+    ["D4:EB:4D:4F:E4:98:3C:B9:13:97:F3:AC:DF:5F:71:5E:BE:2D:CD:7C:D0:46:AC:A6:3F:15:92:40:0C:75:9D:D5"]
   }
 }]

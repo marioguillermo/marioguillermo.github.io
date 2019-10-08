@@ -1,4 +1,13 @@
 [{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+        "namespace": "android_app",
+        "package_name": "com.enso.app.mock.dev",
+        "sha256_cert_fingerprints":
+        ["D4:EB:4D:4F:E4:98:3C:B9:13:97:F3:AC:DF:5F:71:5E:BE:2D:CD:7C:D0:46:AC:A6:3F:15:92:40:0C:75:9D:D5"]
+    }
+},
+{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
@@ -21,15 +30,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.enso.app.dev",
-    "sha256_cert_fingerprints":
-    ["D4:EB:4D:4F:E4:98:3C:B9:13:97:F3:AC:DF:5F:71:5E:BE:2D:CD:7C:D0:46:AC:A6:3F:15:92:40:0C:75:9D:D5"]
-  }
-},
-{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.enso.app.mock.dev",
     "sha256_cert_fingerprints":
     ["D4:EB:4D:4F:E4:98:3C:B9:13:97:F3:AC:DF:5F:71:5E:BE:2D:CD:7C:D0:46:AC:A6:3F:15:92:40:0C:75:9D:D5"]
   }
